@@ -15,5 +15,7 @@ step:
 
 步骤：
 1、安装浏览器插件。
+
 2、nodejs 运行本地服务 ws_server.js。
+
 3、修改ws_server.js处理websocket数据，或者使用其它语言开发本地websocket服务并处理数据。
